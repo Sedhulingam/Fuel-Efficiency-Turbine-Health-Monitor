@@ -7,7 +7,7 @@ This project is a complete data and API solution for monitoring turbine health a
 ## Project Structure
 
 The project is organized into the following key files and directories:
-├── Capstone Project.ipynb
+├── Capstone Project.ipynb\n
 Main ETL pipeline to process and load data
 ├── db.py
 Database connection setup (for SQLAlchemy)
