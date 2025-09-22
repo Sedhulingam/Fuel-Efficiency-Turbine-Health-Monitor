@@ -7,17 +7,23 @@ This project is a complete data and API solution for monitoring turbine health a
 ## Project Structure
 
 The project is organized into the following key files and directories:
-
-├── Capstone Project.ipynb     # Main ETL pipeline to process and load data
-├── db.py                      # Database connection setup (for SQLAlchemy)
-├── main.py                    # FastAPI application with API endpoints
-├── models.py                  # Defines SQLAlchemy and Pydantic data models
-├── turbine_data_renamed.csv   # Raw input data for sensor readings
-├── turbine_metadata_upload.csv # Metadata for turbines
-├── turbine_data.db            # SQLite database file (generated after running)
-├── turbine_data_silver_level  # Processed data for adls /silver
+├── Capstone Project.ipynb
+Main ETL pipeline to process and load data
+├── db.py
+Database connection setup (for SQLAlchemy)
+├── main.py
+FastAPI application with API endpoints
+├── models.py
+Defines SQLAlchemy and Pydantic data models
+├── turbine_data_renamed.csv
+Raw input data for sensor readings
+├── turbine_metadata_upload.csv
+Metadata for turbines
+├── turbine_data.db
+SQLite database file (generated after running)
+├── turbine_data_silver_level
+Processed data for ADLS /silver
 └── README.md
-
 
 ## Getting Started
 
