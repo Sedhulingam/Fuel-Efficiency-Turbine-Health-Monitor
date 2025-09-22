@@ -1,0 +1,6 @@
+alert_id,turbine_id,timestamp,metric,alert_type,severity,actual_value,threshold_value,description
+43901,1,9/22/2025 19:09,tp,High Propeller Torque,Critical,512.12,50,tp=512.12 exceeds threshold
+43902,1,9/22/2025 19:09,t48,Overheat,Critical,1101.56,600,T48=1101.56°C exceeds threshold
+43903,1,9/22/2025 19:09,mf,High Fuel Flow,Critical,1.88,0.3,mf=1.88 kg/s exceeds threshold
+43904,1,9/22/2025 19:09,ts,High Propeller Torque,Critical,620.14,50,ts=620.14 exceeds threshold
+43905,1,9/22/2025 19:09,tp,High Propeller Torque,Critical,650.09,50,tp=650.09 exceeds threshold
