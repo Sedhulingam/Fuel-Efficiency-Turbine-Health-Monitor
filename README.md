@@ -15,9 +15,8 @@ The project is organized into the following key files and directories:
 ├── turbine_data_renamed.csv   # Raw input data for sensor readings
 ├── turbine_metadata_upload.csv # Metadata for turbines
 ├── turbine_data.db            # SQLite database file (generated after running)
-└── turbine_data_silver_level  # Processed data for adls /silver
+├── turbine_data_silver_level  # Processed data for adls /silver
 └── README.md
-
 
 
 ## Getting Started
